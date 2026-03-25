@@ -1,0 +1,21 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+
+# 编译输出
+bin/
+obj/
+*.dll
+*.exp
+*.lib
+*.TMP
+
+# 导入缓存
+*.import
+
+# IDE
+.vscode/
+.vs/
+
+# 导出配置（含本地路径）
+export_presets.cfg

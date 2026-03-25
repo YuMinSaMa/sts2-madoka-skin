@@ -1,0 +1,8 @@
+[gd_resource type="SpineSkeletonDataResource" load_steps=3 format=3 uid="uid://c56ldpvqdvd5h"]
+
+[ext_resource type="SpineAtlasResource" uid="uid://dw7fodvmxr53d" path="res://spineskins/madoka.atlas" id="1_pirnk"]
+[ext_resource type="SpineSkeletonFileResource" uid="uid://ds7prb1jkefso" path="res://spineskins/madoka.skel" id="2_wyor6"]
+
+[resource]
+atlas_res = ExtResource("1_pirnk")
+skeleton_file_res = ExtResource("2_wyor6")
